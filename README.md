@@ -6,7 +6,7 @@ Resources are stuff like:
 - pictures
 - 3d models 
 - music/sounds 
-- cartoon charachters 
+- cartoon concept 
 - concept art 
 - concept stories
 - concept music
